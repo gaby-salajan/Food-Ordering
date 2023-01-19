@@ -1,0 +1,6 @@
+Order-2
+Soy and Sesame Short Ribs - rating : 4.375 | calories : 1190 | protein : 57 | fat : 93 | sodium : 1073 | price : 80
+Spiced Popcorn with Pecans and Raisins - rating : 5.0 | calories : 293 | protein : 3 | fat : 22 | sodium : 242 | price : 13
+Broiled Fish Fillets with Basil Butter - rating : 3.75 | calories : 296 | protein : 31 | fat : 18 | sodium : 95 | price : 66
+Total : 159
+Placed by : user1

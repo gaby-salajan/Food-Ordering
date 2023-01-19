@@ -1,0 +1,4 @@
+Order-10
+daily menu 1 - rating : 2.7083333333333335 | calories : 1390 | protein : 68 | fat : 41 | sodium : 1080 | price : 200
+Total : 200
+Placed by : user1

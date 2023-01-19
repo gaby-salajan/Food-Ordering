@@ -1,0 +1,7 @@
+Order-7
+Chocolate Fudge-Almond - rating : 0.0 | calories : 256 | protein : 8 | fat : 18 | sodium : 60 | price : 71
+Surfer's Granola - rating : 2.5 | calories : 303 | protein : 8 | fat : 16 | sodium : 157 | price : 24
+Apple Pancakes with Cinnamon Butter - rating : 4.375 | calories : 146 | protein : 2 | fat : 9 | sodium : 106 | price : 50
+Apricot and Pistachio Baked Rice - rating : 3.75 | calories : 239 | protein : 4 | fat : 6 | sodium : 1442 | price : 96
+Total : 241
+Placed by : user1

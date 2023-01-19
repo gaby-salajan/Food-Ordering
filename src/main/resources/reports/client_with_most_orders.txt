@@ -1,0 +1,2 @@
+User that have ordered more than 3 times with minimum order price of 50
+user1

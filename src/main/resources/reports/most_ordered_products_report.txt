@@ -1,0 +1,2 @@
+Product ordered more than 2 times:
+Surfer's Granola - rating : 2.5 | calories : 303 | protein : 8 | fat : 16 | sodium : 157 | price : 24

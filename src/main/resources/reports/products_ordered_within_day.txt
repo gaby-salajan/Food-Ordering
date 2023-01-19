@@ -1,0 +1,9 @@
+Pork Fricassée with Mushrooms and Carrots - rating : 3.75 | calories : 727 | protein : 29 | fat : 28 | sodium : 374 | price : 63 -> ordered 1 times
+Chocolate Fudge-Almond - rating : 0.0 | calories : 256 | protein : 8 | fat : 18 | sodium : 60 | price : 71 -> ordered 1 times
+Oil and Vinegar Potato Salad - rating : 3.75 | calories : 259 | protein : 4 | fat : 14 | sodium : 13 | price : 27 -> ordered 1 times
+Surfer's Granola - rating : 2.5 | calories : 303 | protein : 8 | fat : 16 | sodium : 157 | price : 24 -> ordered 3 times
+Baked Apples with Candied Fennel and Pistachios - rating : 0.0 | calories : 386 | protein : 3 | fat : 11 | sodium : 21 | price : 50 -> ordered 1 times
+Fried Chicken Biscuits - rating : 3.75 | calories : 2924 | protein : 22 | fat : 304 | sodium : 1188 | price : 60 -> ordered 1 times
+Apricot and Pistachio Baked Rice - rating : 3.75 | calories : 239 | protein : 4 | fat : 6 | sodium : 1442 | price : 96 -> ordered 1 times
+Apple Pancakes with Cinnamon Butter - rating : 4.375 | calories : 146 | protein : 2 | fat : 9 | sodium : 106 | price : 50 -> ordered 1 times
+Spiced Popcorn with Pecans and Raisins - rating : 5.0 | calories : 293 | protein : 3 | fat : 22 | sodium : 242 | price : 13 -> ordered 1 times

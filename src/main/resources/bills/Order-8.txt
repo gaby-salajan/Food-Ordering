@@ -1,0 +1,8 @@
+Order-8
+Surfer's Granola - rating : 2.5 | calories : 303 | protein : 8 | fat : 16 | sodium : 157 | price : 24
+Oil and Vinegar Potato Salad - rating : 3.75 | calories : 259 | protein : 4 | fat : 14 | sodium : 13 | price : 27
+Baked Apples with Candied Fennel and Pistachios - rating : 0.0 | calories : 386 | protein : 3 | fat : 11 | sodium : 21 | price : 50
+Spiced Popcorn with Pecans and Raisins - rating : 5.0 | calories : 293 | protein : 3 | fat : 22 | sodium : 242 | price : 13
+Fried Chicken Biscuits - rating : 3.75 | calories : 2924 | protein : 22 | fat : 304 | sodium : 1188 | price : 60
+Total : 174
+Placed by : user2

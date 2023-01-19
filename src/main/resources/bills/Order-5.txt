@@ -1,0 +1,6 @@
+Order-5
+Lamb Shanks with Tomatoes and Fresh Herbs - rating : 5.0 | calories : 1434 | protein : 162 | fat : 72 | sodium : 9792 | price : 72
+Island Iced Tea - rating : 3.75 | calories : 197 | protein : 0 | fat : 0 | sodium : 4 | price : 89
+Grilled Green Bean Salad with Red Onions and Tomatoes - rating : 4.375 | calories : 196 | protein : 3 | fat : 15 | sodium : 12 | price : 67
+Total : 228
+Placed by : user2

@@ -1,0 +1,5 @@
+Order-9
+Surfer's Granola - rating : 2.5 | calories : 303 | protein : 8 | fat : 16 | sodium : 157 | price : 24
+Pork Fricassée with Mushrooms and Carrots - rating : 3.75 | calories : 727 | protein : 29 | fat : 28 | sodium : 374 | price : 63
+Total : 87
+Placed by : user1

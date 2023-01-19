@@ -1,0 +1,6 @@
+Order-1
+Lemon Caramel Custard - rating : 0.0 | calories : 229 | protein : 6 | fat : 10 | sodium : 68 | price : 98
+Chocolate Raspberry Roulade - rating : 3.75 | calories : 217 | protein : 5 | fat : 5 | sodium : 165 | price : 26
+No-Bake Chocolate and Cream Cheese Pie - rating : 3.75 | calories : 520 | protein : 5 | fat : 34 | sodium : 53 | price : 34
+Total : 158
+Placed by : user1

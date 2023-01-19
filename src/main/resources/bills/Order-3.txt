@@ -1,0 +1,12 @@
+Order-3
+Braised Lentils - rating : 4.375 | calories : 408 | protein : 21 | fat : 14 | sodium : 372 | price : 84
+Filets Mignons with Creamy Paprika Sauce - rating : 0.0 | calories : 587 | protein : 16 | fat : 51 | sodium : 563 | price : 80
+Ricotta and Red Chard Cannelloni - rating : 3.75 | calories : 853 | protein : 13 | fat : 31 | sodium : 315 | price : 72
+Milk Chocolate Peanut Butter Sauce - rating : 4.375 | calories : 568 | protein : 10 | fat : 27 | sodium : 265 | price : 41
+Porcini Mushroom Risotto - rating : 4.375 | calories : 353 | protein : 13 | fat : 10 | sodium : 488 | price : 51
+Chilled Minted Zucchini Soup - rating : 2.5 | calories : 70 | protein : 5 | fat : 2 | sodium : 55 | price : 96
+Spiced Cherry Cider with Kirsch Cream - rating : 5.0 | calories : 195 | protein : 1 | fat : 3 | sodium : 15 | price : 67
+Haroseth - rating : 5.0 | calories : 273 | protein : 4 | fat : 13 | sodium : 4 | price : 78
+Braised Beef Short Ribs with Root Vegetable Ragoût - rating : 4.375 | calories : 802 | protein : 22 | fat : 45 | sodium : 970 | price : 63
+Total : 632
+Placed by : user1
